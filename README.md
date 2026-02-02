@@ -18,5 +18,5 @@ Détails des fonctionnalités :
 -Toutes les endpoints de l'application sont regroupés dans views.py (l'authentification , prédiction ...) et peuvent être testés manuellement (par ex postman ou curl ou autre outil client)
 -Le modèle est sauvegardé dans le répertoire et peut aussi être testé 
 
-NB: En cas d'erreur ou de soucis , veuillez me contacter via l'adresse email "ismailasanguesow@esp.sn"
+NB: En cas d'erreur ou de soucis , veuillez me contacter via l'adresse email "songue.sea@gmail.com"
 
