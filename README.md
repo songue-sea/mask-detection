@@ -1,5 +1,4 @@
-Voici la partie back-end de l'application. Cette partie recouvre les API de l'application. 
-L'application a besoin de la partie front-end pour bien fonctionner (voir le dépôt https://github.com/songue-sea/mask-detection-front-end) 
+Voici la partie back-end de l'application. Cette partie recouvre les API de l'application. L'application a besoin de la partie front-end pour bien fonctionner (voir le dépôt https://github.com/songue-sea/mask-detection-front-end).
 Pour bien installer l'application flask voici les étapes à suivre (sous pycharm est l'ideal ) :
 1. Créer un répertoire vide qui doit accueillir les fichiers du projet
 2. cloner le projet (avec git un nouveau dossier "mask-detection" est créé conteant tous les fichiers)
